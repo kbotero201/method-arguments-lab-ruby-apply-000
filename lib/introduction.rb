@@ -6,7 +6,5 @@ def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end 
 
-name = kevin 
-lanuguage = ruby 
 
-introduction_with_language(name, language)
+introduction_with_language(kevin, ruby)
